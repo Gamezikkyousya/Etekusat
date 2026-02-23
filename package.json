@@ -3,6 +3,7 @@
     "main": "www/index.html",
     "js-flags": "--expose-gc",
     "window": {
+        "start": "index.html"
         "title": "Freem! Multi Deployment System",
         "toolbar": false,
         "width": 816,
